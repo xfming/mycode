@@ -1,0 +1,226 @@
+[
+ 
+  {
+    "key": "fCp7EQ",
+    "id": 69,
+    "name": "18+博天堂",
+    "api": "http://bttcj.com/inc/sapi.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": true,
+    "status": "可用"
+  },
+  {
+    "key": "YZiKJF",
+    "id": 70,
+    "name": "18+环亚资源",
+    "api": "http://wmcj8.com/inc/sapi.php",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": true,
+    "status": "可用"
+  },
+  {
+    "key": "HsWrKq",
+    "id": 71,
+    "name": "18+速度资源",
+    "api": "http://www.ggmmzy.com:9999/inc/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": true,
+    "status": "可用"
+  },
+  {
+    "id": 98,
+    "key": "523zyw",
+    "name": "18+523资源",
+    "api": "https://caiji.523zyw.com/inc/seacmsapi.php",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "id": 99,
+    "key": "naichaapi",
+    "name": "18+奶茶资源",
+    "api": "https://caiji.naichaapi.com/inc/api.php",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "id": 100,
+    "key": "putaozy",
+    "name": "18+葡萄资源",
+    "api": "https://caiji.putaozy.net/inc/api.php",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "id": 101,
+    "key": "siwazyw",
+    "name": "18+丝袜资源",
+    "api": "https://siwazyw.cc/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "id": 102,
+    "key": "apilyzy",
+    "name": "18+老鸭",
+    "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "id": 103,
+    "key": "huakuiapi",
+    "name": "18+花魁",
+    "api": "https://caiji.huakuiapi.com/inc/api.php",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "id": 104,
+    "key": "apittzy",
+    "name": "18+探探资源",
+    "api": "https://apittzy.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "id": 105,
+    "key": "kkzy",
+    "name": "18+KK资源网",
+    "api": "https://kkzy.me/api.php/provide/vod/at/xmlsea",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "id": 106,
+    "key": "maozyapi",
+    "name": "18+色猫资源",
+    "api": "https://api.maozyapi.com/inc/api.php",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "id": 107,
+    "key": "wmcj8",
+    "name": "18+AG资源",
+    "api": "http://wmcj8.com/inc/sapi.php",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "id": 108,
+    "key": "apiabzy",
+    "name": "18+爱播资源",
+    "api": "https://cj.apiabzy.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "id": 109,
+    "key": "shayu",
+    "name": "18+shayu",
+    "api": "https://shayuapi.com/api.php/Seacms/vod",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "id": 110,
+    "key": "7777688",
+    "name": "18+76色色",
+    "api": "http://m.7777688.com/inc/api.php",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "id": 111,
+    "key": "lb",
+    "name": "18+乐播",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "id": 112,
+    "key": "bttcj",
+    "name": "18+BT天堂",
+    "api": "http://bttcj.com/inc/sapi.php",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "id": 113,
+    "key": "hjzy",
+    "name": "18+花椒资源",
+    "api": "https://apihjzy.com/api.php/Seacms/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "id": 114,
+    "key": "caomeiapi",
+    "name": "18+草莓资源",
+    "api": "https://caiji.caomeiapi.com/inc/api.php",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  }
+]
